@@ -8,8 +8,6 @@ function Type() {
         strings: [
           "Développeur Front-End",
           "Front-End Developer",
-          "前端开发人员",
-          "Desarrolladora front-end",
         ],
         autoStart: true,
         loop: true,

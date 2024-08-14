@@ -4,7 +4,6 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import ubuntu from "../../Assets/Projects/ubuntu.png";
 import weather from "../../Assets/Projects/weather.png";
-import editor from "../../Assets/Projects/codeEditor.png";
 import lapremierebrique from "../../Assets/Projects/lapremierebrique.png";
 import interpreteur from "../../Assets/Projects/interpreteur.png";
 import myyoutube from "../../Assets/Projects/myyoutube.png";

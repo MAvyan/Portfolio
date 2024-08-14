@@ -10,7 +10,6 @@ import {
   DiSwift,
 } from "react-icons/di";
 import {
-  SiRedis,
   SiFirebase,
   SiNextdotjs,
 } from "react-icons/si";
