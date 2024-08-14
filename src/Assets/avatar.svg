@@ -33,11 +33,11 @@
                         <use xlink:href="#path-5"></use>
                     </mask>
                     <use fill="#D0C6AC" xlink:href="#path-5"></use>
-                    <g id="Skin/👶🏻-05-Pale" mask="url(#mask-6)" fill="#FFDBB4">
-                        <g transform="translate(-28.800000, 0.000000)" id="Color">
-                            <rect x="0" y="0" width="238.383871" height="220.354839"></rect>
-                        </g>
-                    </g>
+                    <g id="Skin/👶🏾-05-LightBrown" mask="url(#mask-6)" fill="#6D4C41">
+    <g transform="translate(-28.800000, 0.000000)" id="Color">
+        <rect x="0" y="0" width="238.383871" height="220.354839"></rect>
+    </g>
+</g>
                     <path d="M39.6,84.6 C39.6,112.435151 62.1648486,135 90,135 C117.835151,135 140.4,112.435151 140.4,84.6 L140.4,84.6 L140.4,91.8 C140.4,119.635151 117.835151,142.2 90,142.2 C62.1648486,142.2 39.6,119.635151 39.6,91.8 Z" id="Neck-Shadow" fill-opacity="0.100000001" fill="#000000" mask="url(#mask-6)"></path>
                 </g>
                 <g id="Clothing/Hoodie" transform="translate(0.000000, 153.000000)">

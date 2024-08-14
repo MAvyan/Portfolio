@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
+import avatar from "../../Assets/avatar.svg";
 import Profil from "../Projects/Profil";
 
 function Page() {
@@ -29,7 +30,7 @@ function Page() {
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
-            <img src={laptopImg} alt="about" className="img-fluid" />
+            <img src={avatar} alt="about" className="img-fluid" />
           </Col>
         </Row>
         <Profil />

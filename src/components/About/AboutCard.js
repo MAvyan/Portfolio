@@ -8,11 +8,11 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Bonjour ! Je suis <span className="purple">Yannis Mavinga </span>
+            Bonjour ! Mon nom est <span className="purple">Yannis Mavinga </span>
             <br />
             Développeur Front-End freelance basé à <span className="purple"> Paris, France.</span>
             <br />
-            Je rejoins le MSc (IMSc) de l'école <span className="purple">Epitech</span> en septembre 2024.
+            Je rejoins le MSc (MSc Pro) de l'école <span className="purple">Epitech</span> en septembre 2024.
             <br />
             <br />
             Ce qui occupe mon temps en dehors du code !
