@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
 import avatar from "../../Assets/avatar.svg";
 import Profil from "../Projects/Profil";
 

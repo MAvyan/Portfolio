@@ -1,9 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.svg";
-import avatar from "../../Assets/avatar.svg";
 import Particle from "../Particle";
-import Home2 from "./Home2";
+import Footer from "./Footer";
 import Type from "./Type";
 import Page from "../About/About";
 
@@ -41,7 +40,7 @@ function Home() {
         </Container>
       </Container>
       <Page />
-      <Home2 />
+      <Footer />
     </section>
   );
 }
