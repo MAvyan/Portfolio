@@ -36,7 +36,7 @@ function Projects() {
                         <ProjectCard
                             imgPath={myyoutube}
                             isBlog={false}
-                            title="My Youtube"
+                            title="MyYoutube"
                             description="J'ai réalisé l'intégration d'un clone de YouTube pour un projet d'école en utilisant React. Ce projet m'a permis de développer mes compétences en front-end et de recréer une interface utilisateur complexe tout en optimisant les performances et l'expérience utilisateur."
                             ghLink="https://github.com/MAvyan/MyYoutube"
                         />
@@ -46,7 +46,7 @@ function Projects() {
                         <ProjectCard
                             imgPath={weather}
                             isBlog={false}
-                            title="What's the weather"
+                            title="What's The Weather"
                             description="J'ai intégralement développé une application météo en utilisant Swift et son framework SwiftUI pour un projet d'école. Ce projet m'a permis d'approfondir mes compétences en développement iOS tout en créant une interface utilisateur fluide et réactive, optimisée pour une expérience utilisateur intuitive."
                             ghLink="https://github.com/soumyajit4419/Editor.io"
                             demoLink="https://editor.soumya-jit.tech/"
@@ -69,9 +69,8 @@ function Projects() {
                             imgPath={bomberman}
                             isBlog={false}
                             title="Bomberman"
-                            description="J'ai développé un jeu de type Bomberman en C pour un projet d'école. Ce projet m'a permis de concevoir un jeu multijoueur avec des mécaniques de placement de bombes et de gestion des collisions. Cette expérience m'a permis de renforcer mes compétences en programmation système et en C."
+                            description="J'ai développé un jeu de type Bomberman en C pour un projet d'école. Cette expérience m'a permis de renforcer mes compétences en programmation système et en C."
                             ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-                        // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
                         />
                     </Col>
 
@@ -82,7 +81,6 @@ function Projects() {
                             title="MyLittleAnsible"
                             description="J'ai développé un programme en ligne de commande en Python pour configurer des hôtes distants, dans le cadre d'un projet d'école. Cette expérience m'a offert une compréhension approfondie de la configuration déclarative et de la gestion de services sur des systèmes Linux."
                             ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-                        // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
                         />
                     </Col>
                 </Row>
