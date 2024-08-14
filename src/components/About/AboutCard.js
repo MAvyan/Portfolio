@@ -19,20 +19,20 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Les sports-Auto
+              <ImPointRight /> L'Entrepreunariat
             </li>
             <li className="about-activity">
               <ImPointRight /> Voyager
             </li>
             <li className="about-activity">
-              <ImPointRight /> L'Entrepreunariat
+              <ImPointRight /> Les sports-Auto
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Innovation distinguishes between a leader and a follower."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Steve Jobs</footer>
         </blockquote>
       </Card.Body>
     </Card>

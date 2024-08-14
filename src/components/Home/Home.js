@@ -4,7 +4,7 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-import About from "../About/About";
+import Page from "../About/About";
 
 function Home() {
   return (
@@ -16,9 +16,6 @@ function Home() {
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
                 Bonjour !{" "}
-                <span className="wave" role="img" aria-labelledby="wave">
-                  👋🏻
-                </span>
               </h1>
 
               <h1 className="heading-name">
@@ -42,7 +39,7 @@ function Home() {
           </Row>
         </Container>
       </Container>
-      <About />
+      <Page />
       <Home2 />
     </section>
   );

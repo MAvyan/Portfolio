@@ -3,9 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
-import Projects from "../Projects/Projects";
+import Profil from "../Projects/Profil";
 
-function About() {
+function Page() {
   return (
     <Container fluid className="about-section">
       <Particle />
@@ -32,10 +32,10 @@ function About() {
             <img src={laptopImg} alt="about" className="img-fluid" />
           </Col>
         </Row>
-        <Projects />
+        <Profil />
       </Container>
     </Container>
   );
 }
 
-export default About;
+export default Page;
