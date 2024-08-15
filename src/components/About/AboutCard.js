@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Bonjour, Je suis <span className="purple">Yannis Mavinga</span> !
             <br />
-            Développeur Front-End avec 2 ans d'expériences basé à <span className="purple"> Paris, France</span>.
+            Développeur Front-End avec 2 ans d'expérience basé à <span className="purple"> Paris, France</span>.
             <br />
             Je rejoins le Master (MSc Pro) de l'école <span className="purple">Epitech</span> à la rentrée 2024.
             <br />
