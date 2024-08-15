@@ -47,8 +47,7 @@ function Projects() {
                             imgPath={weather}
                             isBlog={false}
                             title="What's The Weather"
-                            description="J'ai intégralement développé une application météo en utilisant Swift et son framework SwiftUI pour un projet d'école. Ce projet m'a permis d'approfondir mes compétences en développement iOS tout en créant une interface utilisateur fluide et réactive, optimisée pour une expérience utilisateur intuitive."
-                            ghLink="https://github.com/soumyajit4419/Editor.io"
+                            description="J'ai développé une application météo en utilisant Swift et son framework SwiftUI pour un projet d'école. Ce projet m'a permis d'approfondir mes compétences en développement iOS tout en créant une interface utilisateur fluide et réactive, optimisée pour une expérience utilisateur intuitive."
                         />
                     </Col>
 
