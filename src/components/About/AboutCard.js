@@ -30,9 +30,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Innovation distinguishes between a leader and a follower."{" "}
+            "Design is not just what it looks like and feels like. Design is how it works."{" "}
           </p>
-          <footer className="blockquote-footer">Steve Jobs</footer>
+          <footer className="blockquote-footer">Jeffrey Zeldman</footer>
         </blockquote>
       </Card.Body>
     </Card>
