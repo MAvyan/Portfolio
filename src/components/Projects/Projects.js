@@ -95,7 +95,7 @@ function Projects() {
                             isBlog={false}
                             title="BSQ"
                             description="J'ai développé un programme en C pour résoudre le problème du plus grand carré (BSQ) dans une matrice pour un projet d'école. Ce projet m'a permis de renforcer mes compétences en algorithmes et en manipulation de structures de données sous Linux."
-                            ghLink="https://github.com/MAvyan/MyLittleAnsible"
+                            ghLink="https://github.com/MAvyan/BSQ"
                         />
                     </Col>
                     <Col md={4} className="project-card">
@@ -104,7 +104,7 @@ function Projects() {
                             isBlog={false}
                             title="Dante"
                             description="J'ai réalisé un générateur et solveur de labyrinthes en C dans le cadre du projet Dante. Ce projet m'a permis d'explorer des algorithmes de génération procédurale et de résolution de labyrinthes tout en perfectionnant mes compétences en programmation système."
-                            ghLink="https://github.com/MAvyan/MyLittleAnsible"
+                            ghLink="https://github.com/MAvyan/Dante"
                         />
                     </Col>
                     <Col md={4} className="project-card">
@@ -113,7 +113,7 @@ function Projects() {
                             isBlog={false}
                             title="Defender"
                             description="J'ai développé un jeu de défense en C pour un projet d'école, inspiré des classiques du genre. Ce projet m'a permis de concevoir des mécanismes de jeu stratégiques tout en optimisant les performances et la gestion des graphismes sous Linux."
-                            ghLink="https://github.com/MAvyan/MyLittleAnsible"
+                            ghLink="https://github.com/MAvyan/Defender"
                         />
                     </Col>
                     <Col md={4} className="project-card">
@@ -122,7 +122,7 @@ function Projects() {
                             isBlog={false}
                             title="Hunter"
                             description="J'ai conçu un projet en C appelé Hunter, où le but était de créer une IA capable de chasser des cibles dans un environnement donné. Ce projet m'a permis de développer des algorithmes de recherche et de gestion de l'intelligence artificielle."
-                            ghLink="https://github.com/MAvyan/MyLittleAnsible"
+                            ghLink="https://github.com/MAvyan/Hunter"
                         />
                     </Col>
                     <Col md={4} className="project-card">
@@ -131,7 +131,7 @@ function Projects() {
                             isBlog={false}
                             title="Matchstick"
                             description="J'ai développé un jeu de bâtonnets en C, où deux joueurs retirent des allumettes d'un tas, pour un projet d'école. Ce projet m'a permis d'explorer des stratégies algorithmiques simples tout en renforçant mes compétences en gestion de projet sous Linux."
-                            ghLink="https://github.com/MAvyan/MyLittleAnsible"
+                            ghLink="https://github.com/MAvyan/Matchstick"
                         />
                     </Col>
                     <Col md={4} className="project-card">
@@ -140,7 +140,7 @@ function Projects() {
                             isBlog={false}
                             title="N4S"
                             description="J'ai participé au développement de N4S, une simulation de course de voitures autonomes en C. Ce projet m'a permis de travailler sur la programmation de capteurs, l'analyse de données en temps réel, et le contrôle de véhicules autonomes."
-                            ghLink="https://github.com/MAvyan/MyLittleAnsible"
+                            ghLink="https://github.com/MAvyan/N4S"
                         />
                     </Col>
                     <Col md={4} className="project-card">
@@ -149,7 +149,7 @@ function Projects() {
                             isBlog={false}
                             title="Navy"
                             description="J'ai développé une version multijoueur du jeu de bataille navale en C pour un projet d'école. Ce projet m'a permis de travailler sur la gestion des signaux et des communications inter-processus sous Linux, renforçant ainsi mes compétences en développement réseau."
-                            ghLink="https://github.com/MAvyan/MyLittleAnsible"
+                            ghLink="https://github.com/MAvyan/Navy"
                         />
                     </Col>
                     <Col md={4} className="project-card">
@@ -158,7 +158,7 @@ function Projects() {
                             isBlog={false}
                             title="Runner"
                             description="J'ai créé un jeu de type Runner en C, où le joueur doit éviter des obstacles dans un environnement en défilement. Ce projet m'a permis de développer des compétences en programmation de jeux, en gestion du temps et en optimisation des performances sous Linux."
-                            ghLink="https://github.com/MAvyan/MyLittleAnsible"
+                            ghLink="https://github.com/MAvyan/Runner"
                         />
                     </Col>
                     <Col md={4} className="project-card">
@@ -167,7 +167,7 @@ function Projects() {
                             isBlog={false}
                             title="Sokoban"
                             description="J'ai réalisé une version du jeu Sokoban en C pour un projet d'école. Ce projet m'a permis d'implémenter des algorithmes de résolution de puzzles tout en améliorant mes compétences en manipulation de structures de données et en développement de jeux sous Linux."
-                            ghLink="https://github.com/MAvyan/MyLittleAnsible"
+                            ghLink="https://github.com/MAvyan/Sokoban"
                         />
                     </Col>
                 </Row>
