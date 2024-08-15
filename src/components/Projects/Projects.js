@@ -18,7 +18,7 @@ function Projects() {
                     Mes <strong className="purple">Projets </strong>
                 </h1>
                 <p style={{ color: "white" }}>
-                    Quelques projets sur lesquelles j'ai travailé récemment !
+                    Quelques projets sur lesquelles j'ai travaillé récemment !
                 </p>
                 <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
                     <Col md={4} className="project-card">
