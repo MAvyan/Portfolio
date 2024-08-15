@@ -49,7 +49,6 @@ function Projects() {
                             title="What's The Weather"
                             description="J'ai intégralement développé une application météo en utilisant Swift et son framework SwiftUI pour un projet d'école. Ce projet m'a permis d'approfondir mes compétences en développement iOS tout en créant une interface utilisateur fluide et réactive, optimisée pour une expérience utilisateur intuitive."
                             ghLink="https://github.com/soumyajit4419/Editor.io"
-                            demoLink="https://editor.soumya-jit.tech/"
                         />
                     </Col>
 
@@ -59,8 +58,7 @@ function Projects() {
                             isBlog={false}
                             title="Intérpreteur de commande"
                             description="J'ai développé un interpréteur de commandes UNIX en Python pour un projet d'école. Ce projet, réalisé sous Debian, m'a permis de renforcer mes compétences en programmation système et en gestion des processus sous Linux."
-                            ghLink="https://github.com/soumyajit4419/Plant_AI"
-                            demoLink="https://plant49-ai.herokuapp.com/"
+                            ghLink="https://github.com/MAvyan/Minishell"
                         />
                     </Col>
 
@@ -68,9 +66,9 @@ function Projects() {
                         <ProjectCard
                             imgPath={bomberman}
                             isBlog={false}
-                            title="Bomberman"
-                            description="J'ai développé un jeu de type Bomberman en C pour un projet d'école. Cette expérience m'a permis de renforcer mes compétences en programmation système et en C."
-                            ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+                            title="MyRPG"
+                            description="J'ai développé un jeu de type RPG en C pour un projet d'école. Cette expérience m'a permis de renforcer mes compétences en programmation système et en C."
+                            ghLink="https://github.com/MAvyan/RPG"
                         />
                     </Col>
 
@@ -80,7 +78,7 @@ function Projects() {
                             isBlog={false}
                             title="MyLittleAnsible"
                             description="J'ai développé un programme en ligne de commande en Python pour configurer des hôtes distants, dans le cadre d'un projet d'école. Cette expérience m'a offert une compréhension approfondie de la configuration déclarative et de la gestion de services sur des systèmes Linux."
-                            ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+                            ghLink="https://github.com/MAvyan/MyLittleAnsible"
                         />
                     </Col>
                 </Row>
