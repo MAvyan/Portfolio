@@ -12,7 +12,7 @@ function AboutCard() {
             <br />
             Développeur Front-End avec 2 ans d'expérience basé à <span className="purple"> Paris, France</span>.
             <br />
-            Je rejoins le Master (MSc Pro) de l'école <span className="purple">Epitech</span> à la rentrée 2024.
+            Je rentre en Master (MSc Pro) à <span className="purple">Epitech</span> à la rentrée 2024.
             <br />
             <br />
             Ce qui occupe mon temps en dehors du code !
