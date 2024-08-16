@@ -31,7 +31,7 @@ const projectData = [
         imgPath: myyoutube,
         title: "MyYoutube",
         description:
-            "J'ai réalisé un clone de YouTube pour un projet d'école en utilisant ReactJS et NodeJS.",
+            "J'ai réalisé l'intégration d'un clone de YouTube pour un projet d'école en utilisant ReactJS et NodeJS.",
         ghLink: "https://github.com/MAvyan/MyYoutube",
     },
     {
