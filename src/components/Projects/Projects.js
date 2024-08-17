@@ -31,7 +31,7 @@ const projectData = [
         imgPath: myyoutube,
         title: "MyYoutube",
         description:
-            "J'ai développé l'interface d'sun clone de YouTube en utilisant React et Tailwind CSS pour un projet d'école. Ce projet m'a permis de recréer une interface utilisateur complexe tout en optimisant le design et les performances grâce à Tailwind. J'ai pu approfondir mes compétences en développement front-end et en structuration de composants pour des applications web modernes.",
+            "J'ai développé l'interface d'un clone de YouTube en utilisant React et Tailwind CSS pour un projet d'école. Ce projet m'a permis de recréer une interface utilisateur complexe tout en optimisant le design et les performances grâce à Tailwind. J'ai pu approfondir mes compétences en développement front-end et en structuration de composants pour des applications web modernes.",
         ghLink: "https://github.com/MAvyan/MyYoutube",
     },
     {
