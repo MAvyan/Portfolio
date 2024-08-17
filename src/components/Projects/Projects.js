@@ -38,7 +38,7 @@ const projectData = [
         imgPath: weather,
         title: "What's The Weather",
         description:
-            "J'ai développé une application météo en utilisant Swift et SwiftUI pour un projet d'école.",
+            "J'ai développé une application météo en utilisant SwiftUI et une API pour un projet d'école. Ce projet m'a permis de créer une interface utilisateur fluide et réactive tout en intégrant des données météorologiques en temps réel via une API. J'ai pu approfondir mes compétences en développement iOS et en gestion de données externes dans une application mobile.",
     },
     {
         imgPath: interpreteur,
