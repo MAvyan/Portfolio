@@ -44,7 +44,7 @@ const projectData = [
         imgPath: interpreteur,
         title: "Intérpreteur de commande",
         description:
-            "J'ai développé un interpréteur de commandes UNIX en Python pour un projet d'école.",
+            "J'ai développé un interpréteur de commandes UNIX en Python pour un projet d'école. Ce projet sm'a permis de créer une interface en ligne de commande capable d'exécuter des instructions de base, en reproduisant le comportement d'un shell UNIX. Cette expérience m'a permis de renforcer mes compétences en programmation système et en gestion des processus sous Linux.",
         ghLink: "https://github.com/MAvyan/Minishell",
     },
     {
