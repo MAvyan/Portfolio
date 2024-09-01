@@ -17,7 +17,7 @@ import navy from "../../Assets/Projects/navy.png";
 import runner from "../../Assets/Projects/runner.png";
 import sokoban from "../../Assets/Projects/sokoban.png";
 import bomberman from "../../Assets/Projects/bomberman.png";
-import wordle from "../../Assets/Projects/worlde.png";
+import wordle from "../../Assets/Projects/wordle.png";
 
 const projectData = [
     {
@@ -32,14 +32,14 @@ const projectData = [
         imgPath: myyoutube,
         title: "MyYoutube",
         description:
-            "J'ai développé l'interface d'un clone de YouTube en utilisant React et Tailwind pour un projet d'école. Ce projet m'a permis de recréer une interface utilisateur complexe tout en optimisant le design et les performances grâce à Tailwind. J'ai pu approfondir mes compétences en développement front-end et en structuration de composants pour des applications web modernes.",
+            "J'ai développé  un clone de YouTube en utilisant React et NodeJS pour un projet d'école. Ce projet m'a permis de recréer une interface utilisateur complexe tout en optimisant le design et les performances grâce à Tailwind. J'ai pu approfondir mes compétences en développement front-end et en structuration de composants pour des applications web modernes.",
         ghLink: "https://github.com/MAvyan/MyYoutube",
     },
     {
         imgPath: wordle,
         title: "Wordle",
         description:
-            "J'ai développé un jeu de type Wordle en utilisant React. Ce projet m'a permis de créer une interface utilisateur interactive et responsive, tout en mettant en place des fonctionnalités de jeu qui gèrent les entrées de l'utilisateur et vérifient les mots. J'ai pu améliorer mes compétences en développement front-end et en logique de programmation pour des applications de jeux web.",
+            "J'ai développé un jeu de type Wordle en utilisant Javascript et React. Ce projet m'a permis de créer une interface utilisateur interactive et responsive, tout en mettant en place des fonctionnalités de jeu qui gèrent les entrées de l'utilisateur et vérifient les mots. J'ai pu améliorer mes compétences en développement front-end et en logique de programmation pour des applications de jeux web.",
         ghLink: "https://github.com/MAvyan/Wordle",
     },
     {
